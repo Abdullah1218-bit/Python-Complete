@@ -1,0 +1,28 @@
+# a=["hello" , "hey"]
+# for i in a:
+#     print(i)
+#     if (i=="hey"):
+#      print("this is hey")
+# print(type(a))
+
+# a=['he' , 'she' , 'it' , 'they' , 'when']
+# for i in a:
+#     print(i)
+#     if (i=="it"):
+#         print('this is it')
+#     else:
+#         print('there is no it')
+
+
+
+# a=0
+# while not (1<=a<=100):
+    
+#     a=int(input('Enter the value of a :'))
+# print('value is valid') 
+
+
+
+
+# for i in range(1, 101):
+#     print(i)

@@ -1,0 +1,7 @@
+Name: Muhammad Abdullah
+Age: 22
+Math: 74
+English: 71
+Urdu: 60
+Average: 68.33
+Grade: B
